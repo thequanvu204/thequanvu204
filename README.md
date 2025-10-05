@@ -18,7 +18,4 @@
 
 ###
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/the-quan-vu-7277a92b9/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="60"/></a>
-  <a href="mailto:thequanvu204@gmail.com"><img src="https://github.com/user-attachments/assets/d55f04de-a435-41b6-82de-0295b3ba0c17" height="60"/></a>
-</p>
+<p align="left">- Email: thequanvu204@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/the-quan-vu-7277a92b9/<br>- Visit my website: https://vuthequan.vercel.app/</p>
